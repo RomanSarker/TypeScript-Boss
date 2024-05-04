@@ -13,7 +13,7 @@
     };
      const {
         contactNo,
-        name: {middleName :nickName}, //we can alise here not datatypes writting like string coz ts can auto detect
+        name: {middleName :nickName}, //we can name alise here not datatypes writting like string coz ts can auto detect
      } = user;
 
 }

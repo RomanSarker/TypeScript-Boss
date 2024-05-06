@@ -14,7 +14,7 @@ console.log(result); // Output: 30
 
 //object inside function call --->method
 const bankUser ={
-    name : "Roman",
+    name : "Roman TheBird",
     balance : 0,
     addBalance (balance:number):string{
         return `My new balance is: ${this.balance+ balance}`;

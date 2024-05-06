@@ -1,6 +1,6 @@
 //Primitives Datatypes
 //string
-let firstName:string = "Roman";
+let firstName:string = "Roman TheBird";
 
 //number
 let roll: number = 123

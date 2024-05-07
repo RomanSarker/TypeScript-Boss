@@ -2,7 +2,7 @@
     //
     //Constraints mean forse kora
 
-    const AddCourseToStudent = <T extends {id:number; name:string;email:string}>(student : T) => { // T k extends kore dilam forcely its constraints
+    const AddCourseToStudent = <T extends {id:number; name:string;email:string}>(student : T) => { // T k extends kore dilam forcely ..its constraints
         const course = "Next level dev";
 
         return {
